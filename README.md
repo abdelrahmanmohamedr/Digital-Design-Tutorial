@@ -31,7 +31,7 @@ There's no required order — jump into whatever's relevant to you.
 
 ## Links
 
-- 🎞️ **Slides & full files** — [Drive][(#)(https://drive.google.com/drive/folders/1l8bWQybrDCg8ZBG7z3o4k7dL57InzhZm?usp=drive_link)]
+- 🎞️ **Slides & full files** — [Drive](https://drive.google.com/drive/folders/1l8bWQybrDCg8ZBG7z3o4k7dL57InzhZm?usp=drive_link)
 - 💼 **Follow for new episodes** — [LinkedIn](#)
 
 ---
