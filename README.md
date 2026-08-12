@@ -1,4 +1,4 @@
-# ChipRun // Digital Design
+# ChipRun 
 
 **Ongoing · Long-term series**
 
