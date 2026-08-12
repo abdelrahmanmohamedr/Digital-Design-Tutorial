@@ -1,6 +1,6 @@
 // the format
 
-[size]'[type] [name];
+[size]'[type] [Value];
 
 //sized numbers
 
