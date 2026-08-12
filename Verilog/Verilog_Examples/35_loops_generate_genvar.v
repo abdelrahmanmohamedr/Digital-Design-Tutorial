@@ -10,10 +10,10 @@ assign p[0] = a[0];
 // replicated cascading-chain structure
 generate
     genvar i;
-    for (i = 1; i < 7; i = i + 1)
+    for (i = 1; i < 8; i = i + 1)
         assign p[i] = a[i] ^ p[i - 1];
 endgenerate
 
-assign y = p[7 - 1];
+assign y = p[7];
 
 endmodule
