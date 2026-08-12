@@ -7,7 +7,7 @@ reg [7:0] arr3 [0:1][0:3];   // arr is a 2D array rows=2,cols=4 each 8-bit wide
 reg [3:0] regfile [0:7];   // 8 registers, each 4 bits wide
 regfile[2] = 4'b1010;     // write register 2
 
-y1 = 0;                              // Illegal - All elements can't be assigned in a single go
+arr1 = 0;                              // Illegal - All elements can't be assigned in a single go
 
-y2[0] = 8'ha2;      // Assign 0xa2 to index=0
-y3[1][2] = 8'hdd;   // Assign 0xdd to rows=1 cols=2
+arr2[0] = 8'ha2;      // Assign 0xa2 to index=0
+arr3[1][2] = 8'hdd;   // Assign 0xdd to rows=1 cols=2
