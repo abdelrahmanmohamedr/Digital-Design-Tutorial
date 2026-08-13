@@ -19,7 +19,7 @@ There's no required order — jump into whatever's relevant to you.
 | Folder | Topic | Status |
 |---|---|---|
 | [`Verilog/`](./Verilog) | Verilog fundamentals | ✅ Complete |
-| [`SDC/`](./SDC) | STA & timing constraints | ✅ Complete |
+| [`STA/`](./STA) | STA & timing constraints | ✅ Complete |
 | [`Power/`](./Power) | Power analysis | ✅ Complete |
 | `CDC/` | Clock Domain Crossing | 🟠 In progress |
 | `RDC/` | Reset Domain Crossing | ⬜ Queued |
