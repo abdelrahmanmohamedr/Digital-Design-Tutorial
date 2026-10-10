@@ -21,10 +21,10 @@ There's no required order — jump into whatever's relevant to you.
 | [`Verilog/`](./Verilog) | Verilog fundamentals | ✅ Complete |
 | [`STA/`](./STA) | STA & timing constraints | ✅ Complete |
 | [`Power/`](./Power) | Power analysis | ✅ Complete |
-| `CDC/` | Clock Domain Crossing | 🟠 In progress |
-| `RDC/` | Reset Domain Crossing | ⬜ Queued |
-| `DFT/` | Design for Test | ⬜ Queued |
-| `Synth/` | Synthesis | ⬜ Queued |
+| [`CDC/`](./CDC) | Clock Domain Crossing | ✅ Complete |
+| [`RDC/`](./RDC) | Reset Domain Crossing | ✅ Complete |
+| [`DFT/`](./DFT) | Design for Test | ⬜ Queued |
+| [`Synth/`](./Synth) | Synthesis | ⬜ Queued |
 | ... | more topics pending | |
 
 > It's been a long run, but we haven't **$arrived** yet.
